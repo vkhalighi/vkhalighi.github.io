@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:vkha0630@uni.sydney.edu.au"
+      # url: "mailto:"
     - label: "Elements of Mathematics"
       icon: "fas fa-fw fa-link"
       url: "https://math.ac.nz"
@@ -143,7 +143,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:vkha0630@uni.sydney.edu.au"
+      # url: "mailto:"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       # url: "https://www.youtube.com"
