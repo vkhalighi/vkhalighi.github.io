@@ -5,6 +5,6 @@ layout: posts
 math: true
 author_profile: true
 sidebar:
-  - title: "Blog Posts"
+  - title: "Posts"
     nav: sidebar-posts
 ---
