@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-permalink: /posts/
+permalink: /posts
 layout: home
 math: true
 author_profile: true
