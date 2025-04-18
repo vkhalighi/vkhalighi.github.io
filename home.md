@@ -1,5 +1,6 @@
 ---
+permalink: /
 layout: single
-math: true
 author_profile: true
 ---
+Welcome to my home page!
