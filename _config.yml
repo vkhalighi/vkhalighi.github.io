@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Vafa Khalighi"
 title_separator          : "-"
-subtitle                 : "Recent progress in my research and preprints of my papers" # site tagline that appears below site title in masthead
+subtitle                 : "Recent progress in my research and preprints of papers" # site tagline that appears below site title in masthead
 name                     : "Vafa Khalighi"
 description              : "Vafa Khalighi's Home Page"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
