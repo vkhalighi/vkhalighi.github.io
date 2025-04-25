@@ -3,7 +3,8 @@ permalink: /
 layout: single
 author_profile: true
 ---
-Welcome to my home page! 
+Welcome to my home page! I try to post recent progress in my 
+research and preprints of my papers here.
 
 I try to learn the core areas of modern mathematics exhaustively; 
 then I try to digest that knowledge by posting on [Elements of Mathematics](https://math.ac.nz). Elements of Mathematics is also 
